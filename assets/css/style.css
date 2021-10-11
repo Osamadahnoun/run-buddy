@@ -71,7 +71,7 @@
   }
 
   .hero {
-      background-image: url("../images/hero-bg.jpeg");
+      background-image: url("../images/hero-bg.jpg");
       height: 600px;
       background-size: cover;
       background-position: center;
@@ -270,7 +270,19 @@
       color: #fce138;
     }
     
+    #Start {
+      color: #fce138;
+      position: absolute;
+      left: 350px;
+      font-size: 35px;
+      font-style: italic;
+    }
 
+
+    #Habits {
+      position: absolute;
+      left: 110px;
+    }
     
   
 
